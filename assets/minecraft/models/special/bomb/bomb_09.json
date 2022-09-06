@@ -1,0 +1,6 @@
+{
+    "parent": "special/bomb/bomb",
+    "textures": {
+        "1": "special/bomb_keypad/keypad_09"
+    }
+}

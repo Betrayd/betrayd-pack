@@ -1,0 +1,135 @@
+{
+  "gun.pistol.fire": {
+    "sounds": [
+      {
+        "name": "gun/pistol/fire"
+      }
+    ],
+    "subtitle": "Pistol fires"
+  },
+  "gun.pistol.reload": {
+    "sounds": [
+      {
+        "name": "gun/pistol/reload"
+      }
+    ],
+    "subtitle": "Pistol reloading"
+  },
+  "gun.pistol.reload1": {
+    "sounds": [
+      {
+        "name": "gun/pistol/reload"
+      }
+    ],
+    "subtitle": "Pistol reloading"
+  },
+
+  "gun.revolver.fire": {
+    "sounds": [
+      {
+        "name": "gun/revolver/fire"
+      }
+    ],
+    "subtitle": "Revolver fires"
+  },
+  "gun.revolver.reload": {
+    "sounds": [
+      {
+        "name": "gun/revolver/reload"
+      }
+    ],
+    "subtitle": "Revolver reloading"
+  },
+  "gun.revolver.reload1": {
+    "sounds": [
+      {
+        "name": "gun/revolver/reload"
+      }
+    ],
+    "subtitle": "Revolver reloading"
+  },
+
+  "gun.sniper.fire": {
+    "sounds": [
+      {
+        "name": "gun/sniper/fire"
+      }
+    ],
+    "subtitle": "Sniper fires"
+  },
+  "gun.sniper.reload": {
+    "sounds": [
+      {
+        "name": "gun/sniper/reload"
+      }
+    ],
+    "subtitle": "Sniper reloading"
+  },
+  "gun.sniper.reload1": {
+    "sounds": [
+      {
+        "name": "gun/sniper/reload"
+      }
+    ],
+    "subtitle": "Sniper reloading"
+  },
+
+  "gun.shotgun.fire": {
+    "sounds": [
+      {
+        "name": "gun/shotgun/fire"
+      }
+    ],
+    "subtitle": "Shotgun fires"
+  },
+  "gun.shotgun.reload": {
+    "sounds": [
+      {
+        "name": "gun/shotgun/reload"
+      }
+    ],
+    "subtitle": "Shotgun reloading"
+  },
+  "gun.shotgun.reload1": {
+    "sounds": [
+      {
+        "name": "gun/shotgun/reload"
+      }
+    ],
+    "subtitle": "Shotgun reloading"
+  },
+
+  "gun.rifle.fire": {
+    "sounds": [
+      {
+        "name": "gun/rifle/fire"
+      }
+    ],
+    "subtitle": "Rifle fires"
+  },
+  "gun.rifle.reload": {
+    "sounds": [
+      {
+        "name": "gun/rifle/reload"
+      }
+    ],
+    "subtitle": "Rifle reloading"
+  },
+  "gun.rifle.reload1": {
+    "sounds": [
+      {
+        "name": "gun/rifle/reload"
+      }
+    ],
+    "subtitle": "Rifle reloading"
+  },
+
+  "bomb.beep": {
+    "sounds": [
+      {
+        "name": "beep"
+      }
+      ],
+      "subtitle": "Beep"
+  }
+}

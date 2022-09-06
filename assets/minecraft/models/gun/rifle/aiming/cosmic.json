@@ -1,0 +1,6 @@
+{
+	"parent": "gun/rifle/aiming/basic",
+	"textures": {
+		"0": "gun/rifle/cosmic"
+	}
+}

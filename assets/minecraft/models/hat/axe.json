@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/iron_axe"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 159.5],
+			"translation": [0, 12.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

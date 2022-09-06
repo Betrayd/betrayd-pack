@@ -1,0 +1,15 @@
+{
+	"parent": "gun/sniper/basic",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-10, -3, 11.5],
+			"scale": [1, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-8, -3, 11.5],
+			"scale": [1, 2, 2]
+		}
+	}
+}

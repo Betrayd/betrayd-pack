@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/map"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "map/town"},
+    {"predicate": {"custom_model_data":2}, "model": "map/nether"},
+    {"predicate": {"custom_model_data":60}, "model": "map/invisible"}
+  ]
+}

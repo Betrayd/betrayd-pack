@@ -1,0 +1,15 @@
+{
+	"parent": "gun/revolver/basic",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-9.5, 6.25, -0.5],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-8.5, 6.25, -0.5],
+			"scale": [1.1, 1.1, 1.1]
+		}
+	}
+}

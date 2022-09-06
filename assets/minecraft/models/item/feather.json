@@ -1,0 +1,61 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        0,
+        45
+      ],
+      "translation": [
+        -1,
+        13,
+        7
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "gun/pistol/basic"},
+    {"predicate": {"custom_model_data":2}, "model": "gun/pistol/aiming/basic"},
+    {"predicate": {"custom_model_data":3}, "model": "gun/pistol/cosmic"},
+    {"predicate": {"custom_model_data":4}, "model": "gun/pistol/aiming/cosmic"},
+    {"predicate": {"custom_model_data":5}, "model": "gun/pistol/camo"},
+    {"predicate": {"custom_model_data":6}, "model": "gun/pistol/aiming/camo"},
+      
+    {"predicate": {"custom_model_data":10001}, "model": "gun/revolver/basic"},
+    {"predicate": {"custom_model_data":10002}, "model": "gun/revolver/aiming/basic"},
+    {"predicate": {"custom_model_data":10003}, "model": "gun/revolver/cosmic"},
+    {"predicate": {"custom_model_data":10004}, "model": "gun/revolver/aiming/cosmic"},
+    {"predicate": {"custom_model_data":10005}, "model": "gun/revolver/camo"},
+    {"predicate": {"custom_model_data":10006}, "model": "gun/revolver/aiming/camo"},
+      
+    {"predicate": {"custom_model_data":20001}, "model": "gun/rifle/basic"},
+    {"predicate": {"custom_model_data":20002}, "model": "gun/rifle/aiming/basic"},
+    {"predicate": {"custom_model_data":20003}, "model": "gun/rifle/cosmic"},
+    {"predicate": {"custom_model_data":20004}, "model": "gun/rifle/aiming/cosmic"},
+    {"predicate": {"custom_model_data":20005}, "model": "gun/rifle/camo"},
+    {"predicate": {"custom_model_data":20006}, "model": "gun/rifle/aiming/camo"},
+      
+    {"predicate": {"custom_model_data":30001}, "model": "gun/sniper/basic"},
+    {"predicate": {"custom_model_data":30002}, "model": "gun/sniper/aiming/basic"},
+    {"predicate": {"custom_model_data":30003}, "model": "gun/sniper/cosmic"},
+    {"predicate": {"custom_model_data":30004}, "model": "gun/sniper/aiming/cosmic"},
+    {"predicate": {"custom_model_data":30005}, "model": "gun/sniper/camo"},
+    {"predicate": {"custom_model_data":30006}, "model": "gun/sniper/aiming/camo"},
+      
+    {"predicate": {"custom_model_data":40001}, "model": "gun/shotgun/basic"},
+    {"predicate": {"custom_model_data":40002}, "model": "gun/shotgun/aiming/basic"},
+    {"predicate": {"custom_model_data":40003}, "model": "gun/shotgun/cosmic"},
+    {"predicate": {"custom_model_data":40004}, "model": "gun/shotgun/aiming/cosmic"},
+    {"predicate": {"custom_model_data":40005}, "model": "gun/shotgun/camo"},
+    {"predicate": {"custom_model_data":40006}, "model": "gun/shotgun/aiming/camo"}
+  ]
+}

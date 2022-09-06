@@ -1,0 +1,6 @@
+{
+	"parent": "gun/pistol/aiming/basic",
+	"textures": {
+		"0": "gun/pistol/camo"
+	}
+}
