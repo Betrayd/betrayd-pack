@@ -46,7 +46,7 @@ Open the model in a model editing program and apply the texture. (The following 
 > ![paint](https://user-images.githubusercontent.com/51864749/208269932-b28578a4-617c-43ec-9c48-6fb7a34b4fef.png)
 - **HIGHLY ENCOURAGED!** Change the colour mode of the texture to `Indexed` in Aseprite this is done via `Sprite > Color Mode > Indexed`, this saves up a lot of storage space. When indexing your texture **make sure** all of the colours have remained consistant, if indexing causes an error in the colours you do not know how to fix you should undo and keep the texture in the default `RGB Color` mode.
 
-If you don't know how/want to use Git you can send the textures you made in the [Discord server](https://discord.gg/TZ5hdRrpDT) so someone else can update the pack for you, then skip to [Step 4](https://github.com/yo314159at/betrayd-pack/edit/main/README.md#step-4---the-end). Otherwise lets continue...
+If you don't know how/want to use Git you can send the textures you made in the [Discord server](https://discord.gg/TZ5hdRrpDT) so someone else can update the pack for you, then skip to [Step 4](.#step-4---the-end). Otherwise lets continue...
 
 ### Step 3 - Updating the pack
 Lets add your brand new gun skins to the resource pack so they could work in-game.
