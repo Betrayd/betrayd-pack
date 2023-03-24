@@ -1,15 +1,76 @@
-# Betrayd Pack
+<h1 align="center">
+	<img width="256" src="https://user-images.githubusercontent.com/51864749/227629725-2a1d9688-1071-4b43-8bea-bee7c3833bf5.png"><br/>
+</h1>
 
-### The resource pack for the Betrayd Minecraft server.
-Adds custom guns, sounds, cosmetics and more...
+<h4 align="center">The resource pack for the Betrayd Minecraft server.</h4>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TZ5hdRrpDT)
+<p align="center">
+	<a href="#-custom-gun-skin-tutorial"><img src="https://img.shields.io/badge/contribution-tutorial-informational"></a>
+	<a href="https://discord.gg/TZ5hdRrpDT"><img src="https://img.shields.io/discord/732652011077763223?color=5865F2&logo=discord&logoColor=white"></a>
+	<a href="https://github.com/yo314159at/betrayd-pack/releases/latest"><img src="https://img.shields.io/github/v/release/yo314159at/betrayd-pack?display_name=tag&include_prereleases"></a>
+	<a href="https://github.com/yo314159at/betrayd-pack/blob/main/pack.mcmeta"><img src="https://img.shields.io/badge/game version-1.16.x-informational"></a>
+</p>
 
+## About Betrayd
+It's a recreation of Gmod's Trouble in Terrorist Town (TTT) - in Minecraft!
+
+We are a small group of people who enjoy both TTT and Minecraft and so we decided to bring them together.<br/>
+Using custom plugins, a custom resource pack, and amazing maps we strive to bring truly unique gameplay to Minecraft with custom-coded and designed guns, hats, and more!
+
+### The team
+<table>
+	<tr>
+		<td>
+		<img width="64" src="https://minotar.net/helm/c831ec7e76d7449681b3d2c2ca02420a/64.png">
+		</td>
+		<td width="286.7918">
+			<strong>Da0neDatGotAway</strong><br/>Developer
+		</td>
+		<td>
+		<img width="64" src="https://minotar.net/helm/97883084079d4c4d94cce6db9e3120af/64.png">
+		</td>
+		<td width="286.7918">
+			<strong>yo314159at</strong><br/>Developer & Artist
+		</td>
+	</tr>
+</table><table>
+	<tr>
+		<td>
+		<img width="64" src="https://minotar.net/helm/c78697b6036e405e94becfe3e0359dfd/64.png">
+		</td>
+		<td width="160">
+			<strong>callmeJjam</strong><br/>Builder
+		</td>
+		<td>
+		<img width="64" src="https://minotar.net/helm/cc95f55b7eac4039adfdcdc0fe2abc23/64.png">
+		</td>
+		<td width="160">
+			<strong>CreativeArtSpace</strong><br/>Builder
+		</td>
+		<td>
+		<img width="64" src="https://minotar.net/helm/c31842a0f8194ed78e48e60b82e3436f/64.png">
+		</td>
+		<td width="160">
+			<strong>_Breadloaf_</strong><br/>Builder
+		</td>
+	</tr>
+</table>
+
+## Pack Content
+- Guns
+- Special Items
+- Sounds
+- Hats
+- Gun skins
+- More!
+
+Check changelogs for full list
+	
 ## 🎨 Custom gun skin tutorial
 
 **Requirements:**
-- [Blockbench](https://www.blockbench.net/) or another Minecraft model editing program
-- [Aseprite](https://www.aseprite.org/) or another image manipulation tool (Recommended)
+- An Minecraft model editing program such as [Blockbench](https://www.blockbench.net/)
+- An image manipulation tool such as [Aseprite](https://www.aseprite.org/) or [LibreSprite](https://libresprite.github.io) (Recommended)
 
 ### Step 0 - Best practices
 This isn't so much a step but more of a list of things you should keep in mind when making gun skins
@@ -73,12 +134,12 @@ Lets add your brand new gun skins to the resource pack so they could work in-gam
 ```
 - Find your pack's index by referencing this table:
 
-Pack name | Index
-----------|-------
-Basic     | 1
-Cosmic    | 3
-Camo      | 5
-Your pack | 7
+Pack name   | Index
+------------|-------
+Basic       | 1
+Cosmic      | 3
+Camo        | 5
+*Your pack* | 7
 - Add your pack's index to the gun's base model ID to get the custom model data of the gun
 
 Gun      | Base model ID
@@ -100,7 +161,7 @@ Shotgun  | 40,000
 }
 
 ```
-- Edit the pack index reference table starting at line 76 in `README.md` (Hey that's here!)
+- Edit the pack index reference table starting at line 137 in `README.md` (Hey that's here!)
 ```md
 ...
 
