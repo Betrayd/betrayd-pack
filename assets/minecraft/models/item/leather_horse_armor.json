@@ -4,14 +4,15 @@
     "layer0": "minecraft:item/leather_horse_armor"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "hat/farmer"},
-    {"predicate": {"custom_model_data":2}, "model": "hat/headphones"},
-    {"predicate": {"custom_model_data":3}, "model": "hat/deerstalker"},
-    {"predicate": {"custom_model_data":5}, "model": "hat/top_hat"},
-    {"predicate": {"custom_model_data":6}, "model": "hat/miner"},
-    {"predicate": {"custom_model_data":7}, "model": "hat/cowboy"},
-    {"predicate": {"custom_model_data":8}, "model": "hat/axe"},
-    {"predicate": {"custom_model_data":9}, "model": "hat/witch"},
-    {"predicate": {"custom_model_data":10}, "model": "hat/cap"}
+    { "predicate": { "custom_model_data": 1 }, "model": "hat/farmer" },
+    { "predicate": { "custom_model_data": 2 }, "model": "hat/headphones" },
+    { "predicate": { "custom_model_data": 3 }, "model": "hat/deerstalker" },
+    { "predicate": { "custom_model_data": 4 }, "model": "hat/crown" },
+    { "predicate": { "custom_model_data": 5 }, "model": "hat/top_hat" },
+    { "predicate": { "custom_model_data": 6 }, "model": "hat/miner" },
+    { "predicate": { "custom_model_data": 7 }, "model": "hat/cowboy" },
+    { "predicate": { "custom_model_data": 8 }, "model": "hat/axe" },
+    { "predicate": { "custom_model_data": 9 }, "model": "hat/witch" },
+    { "predicate": { "custom_model_data": 10 }, "model": "hat/cap" }
   ]
 }
