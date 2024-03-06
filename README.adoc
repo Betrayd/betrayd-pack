@@ -198,7 +198,7 @@ Let's add your brand-new gun skins to the resource pack so they can work in-game
 }
 
 ```
-* Edit the pack index reference table starting at line 153 in `README.adoc` (Hey that's here!)
+* Edit the pack index reference table starting at line 156 in `README.adoc` (Hey that's here!)
 ```adoc
 ...
 [col="1,1"]
