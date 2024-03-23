@@ -1,0 +1,7 @@
+{
+  "parent": "special/flashbang",
+  "textures": {
+    "0": "special/flashbang",
+    "pin": "special/blank"
+  }
+}
