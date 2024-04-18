@@ -1,0 +1,7 @@
+{
+  "parent": "special/grenade",
+  "textures": {
+    "0": "special/grenade",
+    "pin": "special/blank"
+  }
+}
